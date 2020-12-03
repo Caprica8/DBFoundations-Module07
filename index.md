@@ -16,9 +16,9 @@
 <p>Functions are an integral tool in SQL Server. Any developer who wants to be able to truly get the most out of any database will learn to use the built-in functions, but also learn to write and use UDFs in the form of Scalar, Inline and Multi-Statement Functions as described herein. </p>
 
 <ol>
-<li>	Microsoft, “What are the SQL database functions?” at https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?redirectedfrom=MSDN&view=sql-server-ver15 accessed on December 1, 2020. </li>
+<li>	Microsoft, “What are the SQL database functions?” at <a href="https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?redirectedfrom=MSDN&view=sql-server-ver15">docs.microsoft.com</a> accessed on December 1, 2020. </li>
 <li>	Microsoft, ibid. </li>
-<li>	Hutmacher D, “Table value functions vs inline functions” at sqlsunday.com https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions/ accessed on December 1, 2020. </li>
+<li>	Hutmacher D, “Table value functions vs inline functions” at <a href="https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions"/>sqlsunday.com</a> accessed on December 1, 2020. </li>
 <li>	Hutmacher D, ibid. </li>
 <ol>
 
