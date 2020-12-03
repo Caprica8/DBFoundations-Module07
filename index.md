@@ -1,4 +1,7 @@
 <DOCTYPE html>
+  <head>
+  </head>
+  
 <body>
 <h2>Function is as Function does</h2>
 <h3>Introduction</h3>
