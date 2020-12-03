@@ -4,12 +4,11 @@
   
 <body>
   
-<h5>Melinda Hull</h5>
-<h5>Assignment 07</h5>
-<h5>December 02, 2020</h5>
-<h5>IT FDN 130 A - Foundations of DataBase Management</h5>
-<h5> 
-</hr>
+<p>Melinda Hull</p>
+<p>Assignment 07</p>
+<p>December 02, 2020</p>
+<p>IT FDN 130 A - Foundations of DataBase Management</p>
+
 <h2>Function is as Function does</h2>
 <h3>Introduction</h3>
 <p>The SQL Server toolbox provides a myriad of tools for manipulating data, getting things done and pinpointing specific pieces of data or “characteristics” of data. We have previously focused on views as a tool for, as the name suggests, viewing data that has been stored in a data base and with the use of where, group by, order by and having clauses allow for filtering and manipulating of the underlying data. However, sometimes the developer/user wants to take this filtering and manipulation to another level and that is where functions can come in handy</p>
