@@ -1,6 +1,5 @@
 <DOCTYPE html>
 <body>
-
 <h2>Function is as Function does</h2>
 <h3>Introduction</h3>
 <p>The SQL Server toolbox provides a myriad of tools for manipulating data, getting things done and pinpointing specific pieces of data or “characteristics” of data. We have previously focused on views as a tool for, as the name suggests, viewing data that has been stored in a data base and with the use of where, group by, order by and having clauses allow for filtering and manipulating of the underlying data. However, sometimes the developer/user wants to take this filtering and manipulation to another level and that is where functions can come in handy</p>
@@ -19,7 +18,6 @@
 <li>	Hutmacher D, “Table value functions vs inline functions” at sqlsunday.com https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions/ accessed on December 1, 2020. </li>
 <li>	Hutmacher D, ibid. </li>
 <ol>
+
 </body>
 </html>
-
-
