@@ -1,39 +1,4 @@
-## DBFoundations-Module07
-
-## Assignment 07 
-
-###### Melinda Hull
-###### December 02, 2020
-###### IT FDN 130 A - Foundations of DataBase Management
-
 <DOCTYPE html>
-<head>
-<title>DBFoundations-Module07 - Assignment 07</title>
-<style> 
-body {
-      font-size:20pt;
-      text-align:left
-     }
-h1  {
-      text-align:center
-      }
-      
- h2 { 
-    text-aligh:center
-    }
-    
-  h3 {
-  text-align:left
-  }
-  
-  h4 {
-  text-align:left
-  }
-
-      
-</style>
-      </head>
-<html>
 <body>
 
 <h2>Function is as Function does</h2>
