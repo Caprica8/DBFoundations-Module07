@@ -2,12 +2,11 @@
 
 ## Assignment 07 
 
-#### Melinda Hull
-#### December 02, 2020
-#### IT FDN 130 A - Foundations of DataBase Management
+##### Melinda Hull
+##### December 02, 2020
+##### IT FDN 130 A - Foundations of DataBase Management
 
-##Function is as Function does
-###Introduction
+
 
 h4>Melinda Hull</>
 <h4>December 02, 2020</h3>
