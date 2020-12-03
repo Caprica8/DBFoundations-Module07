@@ -2,16 +2,10 @@
 
 ## Assignment 07 
 
-##### Melinda Hull
-##### December 02, 2020
-##### IT FDN 130 A - Foundations of DataBase Management
+###### Melinda Hull
+###### December 02, 2020
+###### IT FDN 130 A - Foundations of DataBase Management
 
-
-
-h4>Melinda Hull</>
-<h4>December 02, 2020</h3>
-<h4>IT FDN 130 A - Foundations of DataBase Management</h3>
-<h4>Assignment 07</h3>
 <h2>Function is as Function does</h2>
 <h3>Introduction</h3>
 <p>The SQL Server toolbox provides a myriad of tools for manipulating data, getting things done and pinpointing specific pieces of data or “characteristics” of data. We have previously focused on views as a tool for, as the name suggests, viewing data that has been stored in a data base and with the use of where, group by, order by and having clauses allow for filtering and manipulating of the underlying data. However, sometimes the developer/user wants to take this filtering and manipulation to another level and that is where functions can come in handy</p>
@@ -25,36 +19,12 @@ h4>Melinda Hull</>
 <p>Functions are an integral tool in SQL Server. Any developer who wants to be able to truly get the most out of any database will learn to use the built-in functions, but also learn to write and use UDFs in the form of Scalar, Inline and Multi-Statement Functions as described herein. </p>
 
 <ol>
-<li>1.	Microsoft, “What are the SQL database functions?” at https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?redirectedfrom=MSDN&view=sql-server-ver15 accessed on December 1, 2020. </li>
-<li>2.	Microsoft, ibid. </li>
-<li>3.	Hutmacher D, “Table value functions vs inline functions” at sqlsunday.com https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions/ accessed on December 1, 2020. </li>
-<li>4.	Hutmacher D, ibid. </li>
+<li>	Microsoft, “What are the SQL database functions?” at https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?redirectedfrom=MSDN&view=sql-server-ver15 accessed on December 1, 2020. </li>
+<li>	Microsoft, ibid. </li>
+<li>	Hutmacher D, “Table value functions vs inline functions” at sqlsunday.com https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions/ accessed on December 1, 2020. </li>
+<li>	Hutmacher D, ibid. </li>
 <ol>
 </body>
 </html>
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Caprica8/DBFoundations-Module07/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
