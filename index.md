@@ -18,9 +18,7 @@
 <ol>
 <li>	Microsoft, “What are the SQL database functions?” at <a href="https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?redirectedfrom=MSDN&view=sql-server-ver15">docs.microsoft.com</a> accessed on December 1, 2020. </li>
 <li>	Microsoft, ibid. </li>
-<li>	Hutmacher D, “Table value functions vs inline functions” at <a href="https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions"/>sqlsunday.com</a> accessed on December 1, 2020. </li>
+<li>	Hutmacher D, “Table value functions vs inline functions” at <a href="https://sqlsunday.com/2013/05/05/table-value-vs-inline-table-functions">sqlsunday.com</a> accessed on December 1, 2020. </li>
 <li>	Hutmacher D, ibid. </li>
 <ol>
 
-</body>
-</html>
